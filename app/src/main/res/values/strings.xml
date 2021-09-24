@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">EXPENSEMANAGERAPP</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="status_label">status</string>
+    <string name="delete_task">Delete</string>
+    <string name="enter_task_title">"Enter the expense "</string>
+    <string name="enter_task_detail">Expense Information</string>
+    <string name="save_task">Save</string>
+    <string name="priority">Priority</string>
+    <string name="status_open">Open</string>
+    <string name="status_closed">Close</string>
+    <string name="sort_by_priority">Privority</string>
+    <string name="sort_by_title">Price</string>
+</resources>
